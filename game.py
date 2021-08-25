@@ -65,7 +65,7 @@ elif user_choice == computer_choice:
 elif user_choice > 2 or user_choice < 0:
     print("you can only use these three digits 0 as rock, 1 as paper and 2 as scissors")
 
-# The same logic or the game just shorter
+# # The same logic of the game just shorter
 # if user_choice > 2 or user_choice < 0:
 #     print("you can only use these three digits 0, 1 and 2")
 # elif user_choice < computer_choice:
